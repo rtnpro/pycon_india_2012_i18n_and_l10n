@@ -1,0 +1,3155 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 17 0 R
+ /F4 18 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 53 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:rtnpro@{transifex|gmail}.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 74.35433
+ 148.2177
+ 402.189
+ 160.2177 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/rtnpro) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 74.35433
+ 112.2177
+ 402.189
+ 124.2177 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ratnadeepdebnath.wordpress.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 74.35433
+ 94.21772
+ 402.189
+ 106.2177 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/transifex) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 103.8143
+ 82.21772
+ 223.3143
+ 94.21772 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Annots [ 9 0 R ]
+ /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Contents 60 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 61 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+17 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+18 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page10': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Contents 62 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Contents 63 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page12': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 64 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page13': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Contents 65 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page14': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Contents 66 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page15': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Contents 67 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page16': class PDFPage 
+25 0 obj
+% Page dictionary
+<< /Contents 68 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page17': class PDFPage 
+26 0 obj
+% Page dictionary
+<< /Contents 69 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page18': class PDFPage 
+27 0 obj
+% Page dictionary
+<< /Contents 70 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page19': class PDFPage 
+28 0 obj
+% Page dictionary
+<< /Contents 71 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page20': class PDFPage 
+29 0 obj
+% Page dictionary
+<< /Contents 72 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 255.1181 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R30': class PDFCatalog 
+30 0 obj
+% Document Root
+<< /Outlines 32 0 R
+ /PageLabels 73 0 R
+ /PageMode /UseNone
+ /Pages 52 0 R
+ /Type /Catalog >>
+endobj
+% 'R31': class PDFInfo 
+31 0 obj
+<< /Author ()
+ /CreationDate (D:20120915232539-05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Develop for an international audience) >>
+endobj
+% 'R32': class PDFOutlines 
+32 0 obj
+<< /Count 19
+ /First 33 0 R
+ /Last 51 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 34 0 R
+ /Parent 32 0 R
+ /Title (About me) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 35 0 R
+ /Parent 32 0 R
+ /Prev 33 0 R
+ /Title (Transifex) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 36 0 R
+ /Parent 32 0 R
+ /Prev 34 0 R
+ /Title (i18n & l10n) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 37 0 R
+ /Parent 32 0 R
+ /Prev 35 0 R
+ /Title (Encoding) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 38 0 R
+ /Parent 32 0 R
+ /Prev 36 0 R
+ /Title (Timezone) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 39 0 R
+ /Parent 32 0 R
+ /Prev 37 0 R
+ /Title (Choice of formats) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 40 0 R
+ /Parent 32 0 R
+ /Prev 38 0 R
+ /Title (Use a real format) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 41 0 R
+ /Parent 32 0 R
+ /Prev 39 0 R
+ /Title (Basic steps for i18n and l10n) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 42 0 R
+ /Parent 32 0 R
+ /Prev 40 0 R
+ /Title (Python & Gettext) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 43 0 R
+ /Parent 32 0 R
+ /Prev 41 0 R
+ /Title (i18n in Django models) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 44 0 R
+ /Parent 32 0 R
+ /Prev 42 0 R
+ /Title (i18n in Django templates) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 45 0 R
+ /Parent 32 0 R
+ /Prev 43 0 R
+ /Title (Localize dynamic content) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 46 0 R
+ /Parent 32 0 R
+ /Prev 44 0 R
+ /Title (Gotchas with Gettext & Python) >>
+endobj
+% 'Outline.13': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 47 0 R
+ /Parent 32 0 R
+ /Prev 45 0 R
+ /Title (Challenges) >>
+endobj
+% 'Outline.14': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 25 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 48 0 R
+ /Parent 32 0 R
+ /Prev 46 0 R
+ /Title (Modern solutions) >>
+endobj
+% 'Outline.15': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 49 0 R
+ /Parent 32 0 R
+ /Prev 47 0 R
+ /Title (Localization workflow management tools) >>
+endobj
+% 'Outline.16': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 27 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 50 0 R
+ /Parent 32 0 R
+ /Prev 48 0 R
+ /Title (Pontoon) >>
+endobj
+% 'Outline.17': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Next 51 0 R
+ /Parent 32 0 R
+ /Prev 49 0 R
+ /Title (Contribute) >>
+endobj
+% 'Outline.18': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 51.35433
+ 213.4677
+ 0 ]
+ /Parent 32 0 R
+ /Prev 50 0 R
+ /Title (Questions?) >>
+endobj
+% 'R52': class PDFPages 
+52 0 obj
+% page tree
+<< /Count 20
+ /Kids [ 4 0 R
+ 8 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R ]
+ /Type /Pages >>
+endobj
+% 'R53': class PDFStream 
+53 0 obj
+% page stream
+<< /Length 1244 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 165.4677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 43.16732 0 Td (Develop for an international) Tj T* 88.9 0 Td (audience) Tj T* -132.0673 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 140.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 30.79937 0 Td (Speaker:) Tj T* -30.79937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Ratnadeep Debnath) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 125.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 42.47937 0 Td (Event:) Tj T* -42.47937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pycon 2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 110.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 40.24937 0 Td (Slides:) Tj T* -40.24937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TODO) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 110.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R54': class PDFStream 
+54 0 obj
+% page stream
+<< /Length 2114 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (About me) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developer and QA at www.transifex.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rtnpro@{transifex|gmail}.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (@rtnpro at Freenode, Twitter) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/rtnpro) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://ratnadeepdebnath.wordpress.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R55': class PDFStream 
+55 0 obj
+% page stream
+<< /Length 2208 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Transifex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A modern localization workflow management system) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A Django based startup) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It's like a Github for localization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 102.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.786378 Tw (Popular projects \(among many\) using Transifex: Fedora, Django,) Tj T* 0 Tw (Dropbox, Pinterest, Opentranslators, Eventbrite, Intel, Nokia ...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 51.35433 84.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Code: ) Tj 0 0 .501961 rg (https://github.com/transifex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 84.46772 cm
+Q
+q
+1 0 0 1 51.35433 84.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R56': class PDFStream 
+56 0 obj
+% page stream
+<< /Length 1013 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (i18n & l10n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (i18n: Internationalization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (l10n: Localization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R57': class PDFStream 
+57 0 obj
+% page stream
+<< /Length 1358 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Encoding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Always use Unicode rather than ASCII) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Decode user input) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Encode your application output) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R58': class PDFStream 
+58 0 obj
+% page stream
+<< /Length 1082 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Timezone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use UTC to save time information) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can use ) Tj /F2 10 Tf (pytz ) Tj /F1 10 Tf (module for converting timezone info.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R59': class PDFStream 
+59 0 obj
+% page stream
+<< /Length 1609 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Choice of formats) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gettext) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Qt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (YAML) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (INI) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R60': class PDFStream 
+60 0 obj
+% page stream
+<< /Length 1951 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Use a real format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Plural support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Context) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Comment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Suggestions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Validation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R61': class PDFStream 
+61 0 obj
+% page stream
+<< /Length 2026 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Basic steps for i18n and l10n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mark translation strings) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extract them \(PO files\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Translate them) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Compile them \(MO files\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Load them in application) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R62': class PDFStream 
+62 0 obj
+% page stream
+<< /Length 930 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Python & Gettext) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 135.2677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (from) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 0 1 rg (gettext) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 .501961 0 rg (import) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (gettext) Tj ( ) Tj /F3 10 Tf 0 .501961 0 rg (as) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (_) Tj  T*  T* (string) Tj (  ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (_) Tj (\() Tj .729412 .129412 .129412 rg (u'A sentence to translate') Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 127.2677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R63': class PDFStream 
+63 0 obj
+% page stream
+<< /Length 1390 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (i18n in Django models) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 87.26772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 96 re B*
+Q
+q
+BT 1 0 0 1 0 74 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (from) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 0 1 rg (django.utils.translation) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 .501961 0 rg (import) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (ugettext_lazy) Tj ( ) Tj /F3 10 Tf 0 .501961 0 rg (as) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (_) Tj  T*  T* /F3 10 Tf 0 .501961 0 rg (class) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf 0 0 1 rg (Person) Tj /F4 10 Tf 0 0 0 rg (\() Tj (models) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Model) Tj (\):) Tj  T* (    ) Tj (name) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (models) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (TextField) Tj (\() Tj  T* (        ) Tj (_) Tj (\() Tj .729412 .129412 .129412 rg ('Name') Tj 0 0 0 rg (\),) Tj  T* (        ) Tj (help_text) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (_) Tj (\() Tj .729412 .129412 .129412 rg ('First ) Tj (&) Tj ( last name') Tj 0 0 0 rg (\)) Tj  T* (    ) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 79.26772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R64': class PDFStream 
+64 0 obj
+% page stream
+<< /Length 591 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (i18n in Django templates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 135.2677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F4 10 Tf 12 TL ({% load i18n %}) Tj T*  T* ({% trans "Person:" %}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 127.2677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R65': class PDFStream 
+65 0 obj
+% page stream
+<< /Length 1425 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Localize dynamic content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add separate tables to hold localized data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add new fields in the same table to hold localized data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use Gettext to localize dynamic data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (13) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R66': class PDFStream 
+66 0 obj
+% page stream
+<< /Length 1237 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Gotchas with Gettext & Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 156.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.579465 Tw (It's always better to use named format specifiers than positional format) Tj T* 0 Tw (specifiers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.159465 Tw (Are you using new Python format strings? Well, Gettext does not) Tj T* 0 Tw (recognize them and so no validation support from it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (14) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R67': class PDFStream 
+67 0 obj
+% page stream
+<< /Length 2374 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mark translate strings, export) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Release string freeze) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Translator: VCS checkout) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Translate w/ specialized tools) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get 'em files back: SSH, email, tickets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 90.46772 cm
+Q
+q
+1 0 0 1 51.35433 78.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For every friggin release) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 78.46772 cm
+Q
+q
+1 0 0 1 51.35433 78.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R68': class PDFStream 
+68 0 obj
+% page stream
+<< /Length 2018 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modern solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Localization workflow management tools on the cloud) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Transifex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Gengo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Pontoon) Tj /F1 10 Tf (: A tool from Mozilla for live website localization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (16) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R69': class PDFStream 
+69 0 obj
+% page stream
+<< /Length 1971 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Localization workflow management tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (VCS abstraction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Crowdsourced) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Agile) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (API) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TM, Glossary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (17) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R70': class PDFStream 
+70 0 obj
+% page stream
+<< /Length 2485 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Pontoon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 180.4677 cm
+Q
+q
+1 0 0 1 51.35433 168.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Live website localization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 162.4677 cm
+Q
+q
+1 0 0 1 51.35433 150.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Configurable with various backends like Transifex, Pootle, etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 144.4677 cm
+Q
+q
+1 0 0 1 51.35433 132.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Very intuitive) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 126.4677 cm
+Q
+q
+1 0 0 1 51.35433 114.4677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Support for various web frameworks: ) Tj /F2 10 Tf (PHP) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Django ) Tj /F1 10 Tf (\(others will follow\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 108.4677 cm
+Q
+q
+1 0 0 1 51.35433 96.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Helps localize non i18n-ized websites) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 90.46772 cm
+Q
+q
+1 0 0 1 51.35433 78.46772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Open Source) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 78.46772 cm
+Q
+q
+1 0 0 1 51.35433 78.46772 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (18) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R71': class PDFStream 
+71 0 obj
+% page stream
+<< /Length 552 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contribute) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 174.4677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can always contribute to Transifex and Pontoon.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 156.4677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (They are open source :\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 156.4677 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (19) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R72': class PDFStream 
+72 0 obj
+% page stream
+<< /Length 243 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 192.4677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Questions?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (20) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R73': class PDFPageLabels 
+73 0 obj
+% Document Root
+<< /Nums [ 0
+ 74 0 R
+ 1
+ 75 0 R
+ 2
+ 76 0 R
+ 3
+ 77 0 R
+ 4
+ 78 0 R
+ 5
+ 79 0 R
+ 6
+ 80 0 R
+ 7
+ 81 0 R
+ 8
+ 82 0 R
+ 9
+ 83 0 R
+ 10
+ 84 0 R
+ 11
+ 85 0 R
+ 12
+ 86 0 R
+ 13
+ 87 0 R
+ 14
+ 88 0 R
+ 15
+ 89 0 R
+ 16
+ 90 0 R
+ 17
+ 91 0 R
+ 18
+ 92 0 R
+ 19
+ 93 0 R ] >>
+endobj
+% 'R74': class PDFPageLabel 
+74 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R75': class PDFPageLabel 
+75 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R76': class PDFPageLabel 
+76 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R77': class PDFPageLabel 
+77 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R78': class PDFPageLabel 
+78 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R79': class PDFPageLabel 
+79 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R80': class PDFPageLabel 
+80 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R81': class PDFPageLabel 
+81 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R82': class PDFPageLabel 
+82 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R83': class PDFPageLabel 
+83 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R84': class PDFPageLabel 
+84 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R85': class PDFPageLabel 
+85 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+% 'R86': class PDFPageLabel 
+86 0 obj
+% None
+<< /S /D
+ /St 13 >>
+endobj
+% 'R87': class PDFPageLabel 
+87 0 obj
+% None
+<< /S /D
+ /St 14 >>
+endobj
+% 'R88': class PDFPageLabel 
+88 0 obj
+% None
+<< /S /D
+ /St 15 >>
+endobj
+% 'R89': class PDFPageLabel 
+89 0 obj
+% None
+<< /S /D
+ /St 16 >>
+endobj
+% 'R90': class PDFPageLabel 
+90 0 obj
+% None
+<< /S /D
+ /St 17 >>
+endobj
+% 'R91': class PDFPageLabel 
+91 0 obj
+% None
+<< /S /D
+ /St 18 >>
+endobj
+% 'R92': class PDFPageLabel 
+92 0 obj
+% None
+<< /S /D
+ /St 19 >>
+endobj
+% 'R93': class PDFPageLabel 
+93 0 obj
+% None
+<< /S /D
+ /St 20 >>
+endobj
+xref
+0 94
+0000000000 65535 f
+0000000113 00000 n
+0000000247 00000 n
+0000000412 00000 n
+0000000585 00000 n
+0000000878 00000 n
+0000001130 00000 n
+0000001372 00000 n
+0000001612 00000 n
+0000001941 00000 n
+0000002173 00000 n
+0000002473 00000 n
+0000002753 00000 n
+0000003033 00000 n
+0000003313 00000 n
+0000003593 00000 n
+0000003873 00000 n
+0000004155 00000 n
+0000004327 00000 n
+0000004488 00000 n
+0000004769 00000 n
+0000005050 00000 n
+0000005331 00000 n
+0000005612 00000 n
+0000005893 00000 n
+0000006174 00000 n
+0000006455 00000 n
+0000006736 00000 n
+0000007017 00000 n
+0000007298 00000 n
+0000007579 00000 n
+0000007738 00000 n
+0000008023 00000 n
+0000008149 00000 n
+0000008317 00000 n
+0000008502 00000 n
+0000008689 00000 n
+0000008873 00000 n
+0000009057 00000 n
+0000009250 00000 n
+0000009443 00000 n
+0000009648 00000 n
+0000009840 00000 n
+0000010038 00000 n
+0000010239 00000 n
+0000010440 00000 n
+0000010646 00000 n
+0000010833 00000 n
+0000011026 00000 n
+0000011241 00000 n
+0000011425 00000 n
+0000011612 00000 n
+0000011767 00000 n
+0000012045 00000 n
+0000013388 00000 n
+0000015601 00000 n
+0000017908 00000 n
+0000019020 00000 n
+0000020477 00000 n
+0000021658 00000 n
+0000023366 00000 n
+0000025416 00000 n
+0000027541 00000 n
+0000028569 00000 n
+0000030058 00000 n
+0000030747 00000 n
+0000032271 00000 n
+0000033607 00000 n
+0000036080 00000 n
+0000038197 00000 n
+0000040267 00000 n
+0000042851 00000 n
+0000043501 00000 n
+0000043846 00000 n
+0000044196 00000 n
+0000044273 00000 n
+0000044350 00000 n
+0000044427 00000 n
+0000044504 00000 n
+0000044581 00000 n
+0000044658 00000 n
+0000044735 00000 n
+0000044812 00000 n
+0000044889 00000 n
+0000044967 00000 n
+0000045045 00000 n
+0000045123 00000 n
+0000045201 00000 n
+0000045279 00000 n
+0000045357 00000 n
+0000045435 00000 n
+0000045513 00000 n
+0000045591 00000 n
+0000045669 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\361Y\3167\007\027T l\303q\210\302\271\242\201) (\361Y\3167\007\027T l\303q\210\302\271\242\201)] 
+
+ /Info 31 0 R
+ /Root 30 0 R
+ /Size 94 >>
+startxref
+45717
+%%EOF
