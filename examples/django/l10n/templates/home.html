@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block content %}
+    <h2>{% trans "New post" %}</h2>
+    <form action="{% url home %}" method="post" accept-charset="utf-8">{% csrf_token %}
+        <p><input type="text" name="post" maxlength="200"></p>
+        <p><input type="submit" value="Submit"></p>
+    </form>
+    <hr/>
+    <h2>{% trans "Existing posts" %}</h2>
+    {% for post in posts %}
+        <p>{{post.message}}</p>
+    {% empty %}
+        <p>{% trans "No post yet." %}</p>
+    {% endfor %}
+    {% with request.session.django_language as django_language %}
+    <form action="{% url set_language %}" method="post">
+        {% csrf_token %}
+        <input name="next" type="hidden" value="{{ redirect_to }}" />
+        <select name="language">
+            {% get_language_info_list for LANGUAGES as languages %}
+            {% for language in languages %}
+            <option value="{{ language.code }}"{% if django_language == language.code or not django_language and language.code == LANGUAGE_CODE %} selected="selected"{% endif %}>{{ language.name_local }} ({{ language.code }})</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Go" />
+    </form>
+    {% endwith %}
+{% endblock %}
