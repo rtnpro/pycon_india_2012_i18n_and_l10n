@@ -276,6 +276,30 @@ Localize dynamic content
   `django-lingua <https://github.com/geomin/django-lingua>`_
 
 
+Localize dynamic content
+------------------------
+Example using django-vinaigrette can be found `here <https://github.com/rtnpro/pycon_india_2012_i18n_and_l10n/examples/django/l10n/>`_.
+All you need to do is:
+
+* Add ``'vinaigrette'`` to INSTALLED_APPS in your settings file
+* Register the fields of a model you want to translate in proper models.py, e.g.,
+
+    .. code-block:: python
+
+        from django.db import models
+        from django.utils.translation import ugettext_lazy as _
+        import vinaigrette
+
+        class Post(models.Model):
+            message = models.CharField(max_length=200,
+                    verbose_name='Message', help_text=_('A message'))
+
+            def __unicode__(self):
+                return self.message
+
+        vinaigrette.register(Post, ['message'])
+
+
 Gotchas with Gettext & Python
 -----------------------------
 * Issues with ``%`` character in source string. Consider the following scenario.
@@ -287,20 +311,29 @@ Gotchas with Gettext & Python
         msgid "100% translated strings"
         msgstr "100% strings traduzidas"
 
-  ``msgfmt -c`` for the translation file fails.
+  Gettext check(``msgfmt -c``) for the translation file fails.
 
-  Work arounds:
+Gotchas with Gettext & Python: work arounds
+-------------------------------------------
+- Consider removing ``python-format`` flag (**not recommended**)
+- You can modify the source string marked up in source code as:
+  In a Python file:
 
-  - Consider removing ``python-format`` flag (**not recommended**)
-  - You can modify the source string marked up in source code as:
+  .. code-block:: python
 
-    .. code-block:: python
+      _("%(percent)s translated strings") % {percent: "%d%" % n}
 
-        _("%(percent)s translated strings") % {percent: "%d%" % n}
+  In a Django template file:
+
+  .. code-block:: html
+
+      {% blocktrans with percent=n %}{{ percent }} translated strings{% endblocktrans %}
+
+  where n is a context variable = "100%".
 
 
-Gotchas with Gettext & Python
------------------------------
+More gotchas with Gettext & Python
+----------------------------------
 * Are you using new Python format strings?
 
   .. code-block:: python
@@ -338,7 +371,6 @@ Modern solutions
 
 What does Transifex offer?
 --------------------------
-* VCS abstraction
 * Easy integration with the help of ``transifex-client``
 * Collaboration: teams, crowdsourced, watches, outsourcing
 * Translation Memory
@@ -379,7 +411,6 @@ Pontoon
    :align: center
    :width: 1280px
    :height: 720px
-
 
 
 Questions?
